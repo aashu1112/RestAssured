@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-12T11:28:07Z" name="Default suite" finished-at="2021-11-12T11:28:10Z" duration-ms="3285">
+    <groups>
+    </groups>
+    <test started-at="2021-11-12T11:28:07Z" name="Default test" finished-at="2021-11-12T11:28:10Z" duration-ms="3285">
+      <class name="com.rmgyantra.project.end2endtest.Create_Project_and_Allocate_USER">
+        <test-method signature="createProject_WithUSer()[pri:0, instance:com.rmgyantra.project.end2endtest.Create_Project_and_Allocate_USER@1b45c0e]" started-at="2021-11-12T11:28:07Z" name="createProject_WithUSer" finished-at="2021-11-12T11:28:10Z" duration-ms="3247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProject_WithUSer -->
+      </class> <!-- com.rmgyantra.project.end2endtest.Create_Project_and_Allocate_USER -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
